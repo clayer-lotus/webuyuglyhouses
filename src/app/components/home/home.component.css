@@ -1,0 +1,9 @@
+.cover{
+    background: url(https://www.webuyuglyhouses.com/getmedia/41a07b68-e438-4d30-a021-3d1f4a01b0e0/homepage-bk-3-1920px.jpg) #197d7b no-repeat center center;
+    background-size: cover;
+}
+
+h1{
+    color: #1aa398;
+    font-size: 1.875rem;
+}
