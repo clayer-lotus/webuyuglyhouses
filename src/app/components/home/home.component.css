@@ -1,15 +1,85 @@
-.cover{
+.cover {
     background: url(https://www.webuyuglyhouses.com/getmedia/41a07b68-e438-4d30-a021-3d1f4a01b0e0/homepage-bk-3-1920px.jpg) #197d7b no-repeat center center;
     background-size: cover;
     padding: 80px 0;
 }
 
-h1{
+.cover h1 {
     color: #1aa398;
     font-size: 40px;
     font-weight: 900 !important;
 }
 
-p{
+.cover p {
     color: #1aa398;
+}
+
+.sell-house-in-three-steps {
+    padding: 90px 0;
+}
+
+.sell-house-in-three-steps img {
+    width: 100px;
+    height: 100px;
+}
+
+.sell-house-in-three-steps .content p:nth-child(1) {
+    font-weight: 800;
+}
+
+.meet-one-of-the-local-home-buyer {
+    background: url(https://www.webuyuglyhouses.com/images/desktop_friendly_hero.jpg) #197d7b no-repeat center center;
+    background-size: cover;
+    min-height: 700px;
+}
+
+.meet-one-of-the-local-home-buyer .content-bottom {
+    padding: 250px 0 0 0;
+}
+
+.meet-one-of-the-local-home-buyer .content-top {
+    padding: 90px 0 90px 0;
+}
+
+.experience {
+    padding: 80px 0;
+}
+
+.experience .heading-link a {
+    color: #1aa398;
+    font-weight: 700;
+}
+
+.what-you-can-expect {
+    background: #ffdd05 !important;
+    padding: 80px 0;
+}
+
+.what-you-can-expect img {
+    width: 50%;
+}
+
+.what-you-can-expect p {
+    font-weight: 500;
+}
+
+.faqs {
+    padding: 80px 0;
+}
+
+.small-intro {
+    background: #ffdd05 !important;
+    padding: 40px 0 0 0;
+}
+
+.small-intro h5 {
+    font-weight: 700;
+}
+
+.small-intro p {
+    font-weight: 500;
+}
+
+.contact-info {
+    padding: 30px 0;
 }

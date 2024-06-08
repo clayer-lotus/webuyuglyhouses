@@ -1,14 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
-*{
+
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-body{
+body {
     font-family: "Montserrat", sans-serif;
     /* font-family: "Lato", sans-serif; */
-  
+
+}
+
+.section-title {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #197d7b;
+    letter-spacing: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.section-subheading {
+    margin-bottom: 0;
+    color: #000;
+    font-weight: 600;
+}
+
+.btn{
+    text-transform: uppercase;
+    font-weight: 600;
 }
